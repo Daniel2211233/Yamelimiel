@@ -1,0 +1,26 @@
+body {
+    background-color: #f7f7f7;
+    font-family: 'Arial', sans-serif;
+}
+
+.card-header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.message {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.heart-icon {
+    width: 30px;
+    height: 30px;
+    margin: 0 5px;
+}
+
+.hearts {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
